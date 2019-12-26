@@ -8,6 +8,6 @@
 
 - ScreenShots
 <div>
-<img width="200" src="https://user-images.githubusercontent.com/44339530/71456606-92a89980-27dd-11ea-9019-3192de89aaa5.PNG">
+<img width="200" src="https://user-images.githubusercontent.com/44339530/71460145-fa66e080-27ed-11ea-89fe-b535ca237b7f.PNG">
   
 </div>
