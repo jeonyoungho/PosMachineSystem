@@ -668,7 +668,7 @@ void read_sell(headNode *node)
 	}
 	gotoxy(15, 30);
 	textcolor(RED2, WHITE);
-	printf("베트스 메뉴 : %s", best->name);
+	printf("베스트 메뉴 : %s", best->name);
 	//씨발
 	while (1)
 	{

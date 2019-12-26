@@ -2,3 +2,4 @@
 - 관리자 ID : manager PW : 1q2w3e4r
 - 직원   ID : worker  PW : 1q2w3e4r
 - 결제 시스템 미구현
+
