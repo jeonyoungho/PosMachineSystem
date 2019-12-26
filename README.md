@@ -10,7 +10,7 @@
 
 <h2> ScreenShots </h2>
 
-- 기본로그인화면
+- 기본 화면
 <div>
 <img width="500" height="500"src="https://user-images.githubusercontent.com/44339530/71460145-fa66e080-27ed-11ea-89fe-b535ca237b7f.PNG">
 </div>
