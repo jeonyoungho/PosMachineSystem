@@ -8,7 +8,7 @@
 
 - 기본로그인화면
 <div>
-<img width="500" height="300"src="https://user-images.githubusercontent.com/44339530/71460145-fa66e080-27ed-11ea-89fe-b535ca237b7f.PNG">
+<img width="500" height="500"src="https://user-images.githubusercontent.com/44339530/71460145-fa66e080-27ed-11ea-89fe-b535ca237b7f.PNG">
 </div>
 <img width="200" src="https://user-images.githubusercontent.com/44339530/71460197-369a4100-27ee-11ea-9d7e-c327b8941d13.PNG">
 <img width="200" src="https://user-images.githubusercontent.com/44339530/71460199-39953180-27ee-11ea-8c73-1d0ae624b72c.PNG">
